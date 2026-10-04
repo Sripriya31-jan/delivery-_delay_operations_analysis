@@ -1,0 +1,6 @@
+Priority,Area,Finding,Recommended Action
+High,Route,Some state-to-state route proxies have substantially higher delay percentages.,Investigate high-delay geographic routes and review logistics capacity and transit times.
+High,Seller,Some sellers show elevated delay rates compared with other high-volume sellers.,Review high-delay sellers and investigate order processing and dispatch performance.
+Medium,Product Category,Several product categories have higher-than-average delay percentages.,"Review handling, packaging, inventory availability, and fulfillment processes for high-delay categories."
+Medium,Day of Week,Weekend deliveries show higher delay percentages than weekdays.,Review weekend delivery capacity and carrier scheduling.
+Medium,Season,Winter and spring show higher delay percentages than summer.,Monitor seasonal capacity and plan additional logistics resources during higher-delay periods.

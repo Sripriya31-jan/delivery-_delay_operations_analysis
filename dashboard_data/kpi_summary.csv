@@ -1,0 +1,9 @@
+KPI,Value
+Total Orders,96470.0
+On-Time Orders,89936.0
+Delayed Orders,6534.0
+On-Time Percentage,93.23
+Delay Percentage,6.77
+Average Delivery Difference,-11.88
+Median Delivery Difference,-12.0
+Maximum Delay,188.0

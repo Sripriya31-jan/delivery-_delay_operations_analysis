@@ -1,0 +1,6 @@
+Metric,Value
+Accuracy,0.7470716284855395
+ROC-AUC,0.7365583976763971
+Delayed Precision,0.15
+Delayed Recall,0.6
+Delayed F1-Score,0.24
